@@ -62,7 +62,121 @@
     
 }
 
-.teks{
+.title{
     margin-top: 200px;
-    margin-left: 80px;
+    margin-left: 100px;
+    color: black;
+    font-size: 20px;
+}
+
+.title h1{
+    margin-bottom: 10px;
+}
+
+.etalase{
+    margin-top: 10rem;
+}
+
+.title-etalase{
+    margin-left: 5rem;
+}
+
+.name{
+    margin-top: 5rem;
+    margin-left: 10rem;
+    display: flex;
+    gap: 10rem;
+}
+
+.title-name1{
+    text-align: center;
+}
+
+.title-name1 img{
+    width: 100px;
+}
+
+
+.title-name2{
+    text-align: center;
+}
+
+.title-name2 img{
+    width: 100px;
+}
+
+
+.title-name3{
+    text-align: center;
+}
+
+.title-name3 img{
+    width: 100px;
+}
+
+
+.title-name4{
+    text-align: center;
+}
+
+.title-name4 img{
+    width: 130px;
+}
+
+.trending-product{
+    margin-top: 200px;
+    margin-left: 100px;
+    color: black;
+}
+
+.product1 img{
+    width: 15rem;
+    align-items: center;
+}
+
+.product{
+    margin-top: 50px;
+    display: flex;
+    gap: 10rem;
+}
+
+.product1 p{
+    text-align: center;
+}
+
+.product1 button{
+    margin-top: 1rem;
+    margin-left: 5px;
+    padding: 9px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #009990;
+    color: white;
+    border-radius: 15px;
+}
+.product2 button{
+    margin-top: 1rem;
+    margin-left: 5px;
+    padding: 9px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #009990;
+    color: white;
+    border-radius: 15px;
+}
+.product3 button{
+    margin-top: 1rem;
+    margin-left: 5px;
+    padding: 9px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #009990;
+    color: white;
+    border-radius: 15px;
+}
+.product4 button{
+    margin-top: 1rem;
+    margin-left: 5px;
+    padding: 9px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #009990;
+    color: white;
+    border-radius: 15px;
 }
